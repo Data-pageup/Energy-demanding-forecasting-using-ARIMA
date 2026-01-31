@@ -1,6 +1,6 @@
 
 # Time Series Analysis and Forecasting with ARIMA
-
+  
 ##  Project Overview
 
 This project focuses on forecasting electrical load demand and solar power generation in Italy using ARIMA (AutoRegressive Integrated Moving Average) models. The analysis uses real-world time series data from 2016 to predict future energy patterns, which is crucial for grid management, energy planning, and renewable energy integration.
