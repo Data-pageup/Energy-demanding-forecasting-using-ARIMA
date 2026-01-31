@@ -111,7 +111,6 @@ Generated predictions on the test set and compared them against actual values to
 1. **Both series are stationary** - making them suitable for ARIMA modeling without complex transformations
 2. **ARIMA captures patterns effectively** - the models successfully identified and forecasted the underlying cyclical behaviors
 3. **Room for improvement** - more sophisticated models (SARIMA for seasonality, LSTM neural networks, or ensemble methods) could potentially improve accuracy
-4. **Practical applicability** - these forecasts can inform grid operators about expected supply and demand several hours ahead
 
 ## Methodology Summary
 
