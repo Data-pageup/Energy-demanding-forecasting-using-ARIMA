@@ -122,7 +122,7 @@ Generated predictions on the test set and compared them against actual values to
 5. **Parameter Tuning** → Use ACF/PACF plots to select optimal p and q values
 6. **Model Training** → Fit ARIMA models on training data
 7. **Prediction** → Generate forecasts on test set
-8. **Evaluation** → Calculate RMSE and visualize actual vs predicted values
+8. **Evaluation** → Calculate RMSE and visualize actual vs predicted values 
 
 ## Potential Improvements
 
