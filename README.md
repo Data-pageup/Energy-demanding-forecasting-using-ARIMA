@@ -13,7 +13,7 @@ Energy grid operators face significant challenges in balancing electricity suppl
 - **Load demand fluctuates** - consumption patterns vary throughout the day and across seasons
 - **Grid stability requires balance** - supply must match demand in real-time to prevent blackouts or waste
 
-The ability to accurately predict both load demand and solar generation helps utilities:
+The ability to accurately predict both load demand and solar generation  helps utilities:
 - Optimize energy storage and distribution
 - Reduce reliance on fossil fuel backup generators
 - Lower operational costs
