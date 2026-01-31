@@ -147,10 +147,6 @@ This project demonstrates a complete time series forecasting workflow using ARIM
 
 The forecasting framework developed here can be adapted for various time series problems including stock price prediction, weather forecasting, sales forecasting, and more.
 
-## 📝 License
-
-This project is available for educational and research purposes.
-
 ---
 
 **Author**: Amirtha Ganesh R
