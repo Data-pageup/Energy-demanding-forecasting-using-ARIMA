@@ -132,7 +132,7 @@ Generated predictions on the test set and compared them against actual values to
 - **Feature Engineering**: Create lag features, rolling statistics, or calendar-based features
 - **Longer Forecasting Horizons**: Extend predictions beyond immediate time steps
 
-## Technologies Used
+## Libraries Used
 
 - **Python** - Programming language
 - **Pandas** - Data manipulation and analysis
