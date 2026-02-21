@@ -5,6 +5,7 @@
 
 This project focuses on forecasting electrical  load demand and solar power generation in Italy using ARIMA (AutoRegressive Integrated Moving Average) models. The analysis uses real-world time series data from 2016 to predict future energy patterns, which is crucial for grid management, energy planning, and renewable energy integration.
  
+
 ##  Problem Statement
 
 Energy grid operators face significant challenges in balancing electricity supply and demand. With the increasing integration of renewable energy sources like solar power, accurate forecasting becomes even more critical because:
