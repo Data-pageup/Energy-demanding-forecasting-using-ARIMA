@@ -36,7 +36,7 @@ The ability to accurately predict both load demand and solar generation  helps u
 - **Solar patterns**: Clear diurnal cycle with generation during daylight hours and zero generation at night
 - **Seasonal variations**: Both series exhibit seasonal fluctuations throughout the year
 
-##  What We Did
+##  What I Did
 
 ### 1. Data Exploration and Visualization
 
