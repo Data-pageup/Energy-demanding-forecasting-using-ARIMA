@@ -76,7 +76,7 @@ We used ACF (Autocorrelation Function) and PACF (Partial Autocorrelation Functio
 - PACF showed sharp drop after lag 2
 - **Selected**: p=2, d=0, q=2 for both models
 
-### 5. Model Training and Evaluation
+### 5. Model Training and Evaluation 
 
 **Train-Test Split**: 80% training data, 20% testing data
 
